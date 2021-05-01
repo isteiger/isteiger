@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-currently working on [the Wake Students' Site.](https://www.reedystudents.games)
+currently working on [The Pinkerton Minecraft Server Network](https://github.com/PinkertonMC) \
+my other baby is [the Wake Students' Site](https://www.reedystudents.games)
