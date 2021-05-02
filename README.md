@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 currently working on [The Pinkerton Minecraft Server Network](https://github.com/PinkertonMC) \
-my other baby is [the Wake Students' Site](https://www.reedystudents.games)
+my other main project is [the Wake Students' Site](https://www.reedystudents.games)
