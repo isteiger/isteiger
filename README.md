@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-currently working on [The Pinkerton Minecraft Server Network](https://github.com/PinkertonMC)
+### projects ive worked on:
+- [PinkertonMC](https://github.com/PinkertonMC)
