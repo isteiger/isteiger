@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### projects ive worked on:
-- [PinkertonMC](https://github.com/PinkertonMC)
+### [LinkedIn](https://linkedin.com/in/iksteiger)
